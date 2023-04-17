@@ -26,7 +26,7 @@ public class Ventana {
         switch (respuesta) {
             case "1":
                 System.out.println("Has seleccionado la Opción 1: Enfrentar mago, bruja y golem ");
-                gestionJuego.enfrentarEnemigos();
+
                 break;
             case "2":
                 System.out.println("Has seleccionado la Opción 2: enfrentar Otro jugador");
